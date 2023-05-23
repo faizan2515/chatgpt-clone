@@ -4,7 +4,7 @@ I cloned ChatGPT using React, Tailwind CSS, and Vite. Leveraging Vite's fast and
 
 ## Demo
 
-Demo is available [here](https://wholiee.netlify.app/)
+Demo is available [here](https://my-chatgpt-clone.netlify.app/)
 
 ## Run Locally
 
